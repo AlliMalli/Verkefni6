@@ -1,0 +1,10 @@
+Hugmyndir:
+Ég er búinn að ákveða að hafa vefsíðuna mína fjalla um Eye Observe, sem er dularful YouTube rás með einhver leyndarmál. Það er bara með nokkur þúsund áhorf en ég hef áhuga á því að finna út um hvað þetta er. Það eru 23 vídeó en ég mun bara tala um fyrstu 5. Rásin er hér: https://www.youtube.com/channel/UCz-ODd0nrP82kK3H42lZ72w
+Lokaverkefnið í fyrra virðist vera frekar líkt þessu, þannig ég ætla að nota það sem hálfpartinn "blueprint" fyrir lokaverkefnið.
+
+To-Do:
+1. Finna út allt saman sem ég get úr fyrstu 5 vídeóunum.
+2. Plana hvernig ég mun skrifa um það og hvaða vídeó/myndir fyrir hvern hlut sem ég tala um.
+3. Setja upp á HTML síðu með CSS.
+4. Ef auka tími gefist, bæta við smá "CSS skreytingar".
+5. Gera YouTube vídeó fyrir mína eigin rás um þetta (ekki partur af verkefninu).
